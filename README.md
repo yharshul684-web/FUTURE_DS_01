@@ -59,7 +59,3 @@ This dashboard enables stakeholders to quickly identify **sales trends, profitab
 - Data Modeling & Relationships
 - Interactive Filters & Slicers
 - Bing Maps Integration
-
----
-
-## 📁 Repository Structure
